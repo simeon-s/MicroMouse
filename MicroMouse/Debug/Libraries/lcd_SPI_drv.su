@@ -1,0 +1,10 @@
+lcd_SPI_drv.c:75:6:LcdOutDat	24	static
+lcd_SPI_drv.c:90:6:LcdOutCtl	24	static
+lcd_SPI_drv.c:113:6:LcdInit	16	static
+lcd_SPI_drv.c:177:6:LcdContrast	8	static
+lcd_SPI_drv.c:199:6:LcdTest	16	static
+lcd_SPI_drv.c:219:6:LcdTurnOFF	0	static
+lcd_SPI_drv.c:237:6:LcdUpdate	32	static
+lcd_SPI_drv.c:281:6:Delay_1us	0	static
+lcd_SPI_drv.c:289:6:Delay_us	0	static
+lcd_SPI_drv.c:296:6:Delay_ms	0	static

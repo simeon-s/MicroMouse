@@ -1,0 +1,6 @@
+menu.c:92:6:MENU_printMenu	72	static
+menu.c:62:6:MENU_init	24	static
+menu.c:116:6:MENU_printMenuItem	48	static
+menu.c:132:15:MENU_getMenuSize	0	static
+menu.c:140:6:MENU_gtoDefaultMenu	8	static
+menu.c:157:6:MENU_handler	32	static

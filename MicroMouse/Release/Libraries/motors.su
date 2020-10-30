@@ -1,0 +1,2 @@
+motors.c:16:6:MotorLeftSpeed	8	static
+motors.c:34:6:MotorRightSpeed	8	static

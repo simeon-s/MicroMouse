@@ -1,0 +1,7 @@
+menu_functions.c:86:15:EditValue	40	static
+menu_functions.c:166:15:InputValue	40	static
+menu_functions.c:284:15:SelectBox	56	static
+menu_functions.c:391:15:MessageBox	56	static
+menu_functions.c:460:6:TextBox	64	static
+menu_functions.c:498:6:DrawBar	40	static
+menu_functions.c:510:6:ClearBar	16	static

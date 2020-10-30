@@ -1,0 +1,7 @@
+motors.c:17:6:TurboStart	0	static
+motors.c:22:6:TurboStop	0	static
+motors.c:28:6:TurboSpeed	0	static
+motors.c:40:6:MotorsStart	8	static
+motors.c:46:6:MotorsStop	8	static
+motors.c:52:6:MotorLeftSpeed	8	static
+motors.c:70:6:MotorRightSpeed	8	static

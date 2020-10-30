@@ -1,0 +1,7 @@
+main.c:228:6:float_format	0	static
+main.c:254:6:HAL_GPIO_EXTI_Callback	0	static
+main.c:738:6:SystemClock_Config	160	static
+main.c:1397:6:HAL_ADC_ConvCpltCallback	0	static
+main.c:1418:6:read_sensors	16	static
+main.c:281:7:main	224	static
+main.c:1470:6:Error_Handler	0	static

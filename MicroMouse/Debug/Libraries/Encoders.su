@@ -1,0 +1,6 @@
+Encoders.c:31:6:EncodersInit	12	static
+Encoders.c:44:10:enc_getLeftCounter	0	static
+Encoders.c:48:10:enc_getRightCounter	0	static
+Encoders.c:53:6:clear_encoders	0	static
+Encoders.c:64:6:enc_clearLeftCounter	0	static
+Encoders.c:68:6:enc_clearRightCounter	0	static

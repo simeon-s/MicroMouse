@@ -1,0 +1,3 @@
+ir_module.c:289:6:ir_init	12	static
+ir_module.c:304:6:IRpinIntHandler	16	static
+ir_module.c:370:6:IR_TimerHandler	0	static

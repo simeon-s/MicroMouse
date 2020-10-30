@@ -1,0 +1,13 @@
+sd_hal_mpu6050.c:195:19:SD_MPU6050_SetDataRate	32	static
+sd_hal_mpu6050.c:214:19:SD_MPU6050_SetAccelerometer	48	static
+sd_hal_mpu6050.c:261:19:SD_MPU6050_SetGyroscope	32	static
+sd_hal_mpu6050.c:118:19:SD_MPU6050_Init	48	static
+sd_hal_mpu6050.c:292:19:SD_MPU6050_ReadAccelerometer	48	static
+sd_hal_mpu6050.c:313:19:SD_MPU6050_ReadGyroscope	48	static
+sd_hal_mpu6050.c:339:19:SD_MPU6050_ReadTemperature	40	static
+sd_hal_mpu6050.c:361:19:SD_MPU6050_ReadAll	56	static
+sd_hal_mpu6050.c:393:19:SD_MPU6050_EnableInterrupts	40	static
+sd_hal_mpu6050.c:419:19:SD_MPU6050_DisableInterrupts	40	static
+sd_hal_mpu6050.c:430:19:SD_MPU6050_ReadInterrupts	40	static
+sd_hal_mpu6050.c:471:6:MPU6050DataGyroGetFloat	0	static
+sd_hal_mpu6050.c:514:1:MPU6050DataAccelGetFloat	0	static
